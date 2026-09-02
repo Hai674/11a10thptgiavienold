@@ -1,0 +1,10 @@
+{
+  "name": "Lớp 11A10 - Kỷ niệm thanh xuân",
+  "short_name": "Lớp 11A10",
+  "description": "Không gian lưu giữ kỷ niệm của lớp 11A10.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": []
+}
